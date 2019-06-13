@@ -12,6 +12,7 @@ const User = props => (
     </div>
   </div>
 )
+
 export default () => (
   <Container>
     <h1>About CSS Modules</h1>
